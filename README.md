@@ -1,4 +1,4 @@
-# QuickDraw Project
+# Convolutional Neural Network (QuickDraw Project)
 
 This is my final project during New York University's summer program in machine learning. Our goal was to create a modified version of the game "Quick, Draw!" in which the user would draw a simple sketch on a 28 pixel by 28 pixel canvas. The program would predict if the drawing is an airplane, a car, or a clock. 
 
