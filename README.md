@@ -4,4 +4,5 @@ This is my final project during New York University's summer program in machine 
 
 We used 454,923 total images of cars, airplanes, and clocks provided by Google's dataset from the game "Quick, Draw!" to train our convolutional neural network. We configured it to 5 epochs with batch sizes of 50 and the validation accuracy resulted in 98.7%.
 
+Project written in Python on Google Colaboratory.
 Team credits: Christopher Chang, Ibrahim Khanani
